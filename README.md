@@ -1,6 +1,6 @@
 # Formulario Registro validado con JavaScript
 
-Este repositorio contiene un formulario de registro el cual tiene validaciones y está realizada en HTML, CSS y JS parte del curso de **Certified Tech Developer** de **DIGITAL HOUSE**
+Este repositorio contiene un formulario de registro el cual tiene validaciones y está realizada en HTML, CSS y JS parte del curso de **Certified Tech Developer** de **DIGITAL HOUSE** por Sergie Code
 
 ## Uso
 
